@@ -1,4 +1,4 @@
-#dushuproject 
+# dushuproject 
 
 爬取了www.dushu.com网站，并吧爬取的内容写入json文件中
 
@@ -14,15 +14,15 @@
  
 3.将爬取的数据存储到mysql数据库中
 
-#movieproject
-爬去了www.yytt.com网站，爬取的内容主要是电所影排行榜，主要涉及到的就是需要的内容在来嗯个不同的页面当中
+# movieproject
+爬去了www.yytt.com网站，爬取的内容主要是电所影排行榜，主要涉及到的就是需要的内容在N不同的页面当中
 
-#postproject
+# postproject
 主要是利用scrapy实现模拟登录，实现了微波和豆瓣的模拟登录
 
-#qiubaispider
+# qiubaispider
 爬取糗事百科的段子
 
-#huaproject
+# huaproject
 爬取了www.xiaohua.com网站，分类下载图片等信息
 
