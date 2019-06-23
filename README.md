@@ -1,6 +1,6 @@
 # dushuproject 
 
-爬取了www.dushu.com网站，并吧爬取的内容写入json文件中
+爬取了www.dushu.com网站，并把爬取的内容写入json文件中
 
 1.用到了CrawlSpider它的父类是Scrapy.Spider,优势在于它可以定义规则，可以根据连接提取出指定的连接
 连接提取器scrapy.linkextractors.LinkExtractor()
